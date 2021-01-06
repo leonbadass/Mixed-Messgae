@@ -13,8 +13,8 @@ It is an application created as a project for [Codecademy's](https://www.codecad
 ### Technologies
 **project is created with:**
 
--Visual studio code: 1.52.1
--Node.js: 12.14.1
+- Visual studio code: 1.52.1
+- Node.js: 12.14.1
 
 ### Setup
 This project can run on any javascript IDE, *most prefereably* [Visual Studio Code.](https://www.code.visualstudio.com)
